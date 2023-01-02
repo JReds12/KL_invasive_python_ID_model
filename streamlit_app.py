@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "kl_python_model.pkl": {
-        "url": "https://drive.google.com/file/d/1UNHxr_N8NH2r6O4o2zMwKsts13mfxIt2/view?usp=share_link",
+        "url": "https://www.dropbox.com/s/7cal072854aoacf/kl_python_model.pkl?dl=1",
         "size": 179198389
     }
 }
