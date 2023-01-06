@@ -9,7 +9,7 @@ from PIL import ImageOps
 import pathlib
 
 def main():
-    st.title('Key Largo Invasive Python Classifier')
+    st.title('Key Largo Invasive Python Classifier (Burmese Python vs Ball Python)')
 
     for filename in EXTERNAL_DEPENDENCIES.keys():
         download_file(filename)
